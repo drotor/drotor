@@ -1,4 +1,7 @@
 <your-name>, it's me...
+<img width="460" height="460" alt="me" src="https://github.com/user-attachments/assets/a0f302f0-1245-4ece-a7f3-df95b10d3890" />
+
+
 
 <!--
 **drotor/drotor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
